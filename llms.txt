@@ -1,0 +1,13 @@
+# Huyawo Research
+
+> Research and engineering notes from Huyawo, an independent research and engineering project developing efficient open models and agentic AI systems.
+
+This research site publishes notes and experimental evidence about open models, agentic adaptation and agent evaluation. Content is authored by Huyawo Agentic Adaptation.
+
+## Articles
+
+- [When an Agent Completes a Task, What Have We Actually Proven?](https://research.huyawo.com/posts/when-an-agent-completes-a-task/): Why execution records and outcome verification matter for training models capable of using tools and acting in environments. Covers trajectory provenance, execution evidence, outcome verification, evaluation shortcuts and reward hacking, answer exposure, and how trajectories are used to train agents via supervised fine-tuning and reinforcement learning.
+
+## About
+
+Huyawo Agentic Adaptation is a Huyawo research and engineering project dedicated to adapting language models for tasks involving interaction with environments — studying the relationship between agent experience, execution evidence and model training.
